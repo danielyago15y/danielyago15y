@@ -1,16 +1,17 @@
-## Hi there 👋
+## boas vindas ao meu prefis 💙🖤
 
-<!--
-**danielyago15y/danielyago15y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é daniel yago
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📫
+
+danielyago467@gmail.com
+
+@danielyago15y 📷
+
+danielyagodos 👻
+
+![image](https://github.com/user-attachments/assets/861c97a3-f968-4807-9dc0-f89e74aa8368)

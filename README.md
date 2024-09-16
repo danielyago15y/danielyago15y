@@ -14,4 +14,4 @@ danielyago467@gmail.com
 
 danielyagodos 👻
 
-![image](https://github.com/user-attachments/assets/861c97a3-f968-4807-9dc0-f89e74aa8368)
+![image](https://github.com/user-attachments/assets/5c645547-c1c1-43b2-8e02-074eca95a286)
